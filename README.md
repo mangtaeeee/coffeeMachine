@@ -1,5 +1,5 @@
 	클래스 2개: 
-	메인 실행 클래스(CoffeMachine) 로직처리 클래스(CoffeManager)
+	메인 실행 클래스(CoffeeMachine) 로직처리 클래스(CoffeeManager)
 	커피는 300원 거스름돈
 	500원부터 10원 단위까지 큰 순서부터 반환(반환된 금액과 동전개수 출력)
 	고려할 부분
